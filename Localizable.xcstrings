@@ -1098,7 +1098,7 @@
         "zh-Hant-TW" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "2.4 吉赫茲"
+            "value" : "2.4 Ghz"
           }
         }
       }
@@ -1596,7 +1596,7 @@
         "zh-Hant-TW" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activity"
+            "value" : "活動"
           }
         }
       }
@@ -2051,7 +2051,7 @@
         "zh-Hant-TW" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ago"
+            "value" : "之前"
           }
         }
       }
@@ -2393,7 +2393,7 @@
         "zh-Hant-TW" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "替代"
+            "value" : "高度"
           }
         }
       }
@@ -9836,7 +9836,7 @@
         "zh-Hant-TW" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "刪除所有電台指標？?"
+            "value" : "刪除所有電台指標？"
           }
         }
       }
